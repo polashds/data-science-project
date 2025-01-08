@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+dspro/
 
 # Spyder project settings
 .spyderproject
